@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "My Protected Area"
+AuthUserFile /users/studs/bsc/2016/royhersh/.html/.htpasswd
+Require valid-user
+AuthGroupFile /dev/null
